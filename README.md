@@ -1,3 +1,26 @@
+## ignition_cmake2_vendor (humble) - 0.0.2-2
+
+The packages in the `ignition_cmake2_vendor` repository were released into the `humble` distro by running `/home/steven/osrf/bloom/.direnv/python-3.10.4/bin/bloom-release -r humble ignition_cmake2_vendor` on `Wed, 20 Apr 2022 20:13:12 -0000`
+
+The `ignition_cmake2_vendor` package was released.
+
+Version of package(s) in repository `ignition_cmake2_vendor`:
+
+- upstream repository: https://github.com/ignition-release/ignition_cmake2_vendor.git
+- release repository: https://github.com/ros2-gbp/ignition_cmake2_vendor-release.git
+- rosdistro version: `null`
+- old version: `0.0.2-1`
+- new version: `0.0.2-2`
+
+Versions of tools used:
+
+- bloom version: `0.11.0`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## ignition_cmake2_vendor (humble) - 0.0.2-1
 
 The packages in the `ignition_cmake2_vendor` repository were released into the `humble` distro by running `/home/steven/osrf/bloom/.direnv/python-3.10.4/bin/bloom-release -r humble ignition_cmake2_vendor -n` on `Wed, 20 Apr 2022 20:03:25 -0000`
