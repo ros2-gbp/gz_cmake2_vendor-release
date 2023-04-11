@@ -1,0 +1,12 @@
+Source: ros-rolling-ignition-cmake2-vendor
+Section: misc
+Priority: optional
+Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), cmake, doxygen, git, libignition-cmake2-dev, ros-rolling-ament-cmake-copyright <!nocheck>, ros-rolling-ament-cmake-lint-cmake <!nocheck>, ros-rolling-ament-cmake-test, ros-rolling-ament-cmake-xmllint <!nocheck>, ros-rolling-ros-workspace
+Homepage: https://github.com/ignitionrobotics/ign-cmake
+Standards-Version: 3.9.2
+
+Package: ros-rolling-ignition-cmake2-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libignition-cmake2-dev, ros-rolling-ros-workspace
+Description: This package provides the Ignition CMake 2.x library.
