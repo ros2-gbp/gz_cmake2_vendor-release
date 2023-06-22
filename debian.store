@@ -1,1 +1,1 @@
-{"base": "1b632b2", "parent": "debian/rolling/ignition_cmake2_vendor", "previous": "68d3d05", "trim": "", "trimbase": ""}
+{"base": "30a21de51fec", "parent": "debian/rolling/ignition_cmake2_vendor", "previous": "c1a367671286", "trim": "", "trimbase": ""}
